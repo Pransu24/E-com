@@ -24,7 +24,7 @@ This is my solution to the [Interactive rating component challenge on Frontend M
 ![alt text](https://github.com/Pransu24/Feedback/blob/main/image.png)
 
 ### Links
-- Live Site URL: 
+- Live Site URL: https://pransu24.github.io/Feedback/
 
 ## My process
 
