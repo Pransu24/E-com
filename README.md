@@ -21,7 +21,7 @@ This is my solution to the [Interactive rating component challenge on Frontend M
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-![alt text]()
+![alt text](https://github.com/Pransu24/Feedback/blob/main/image.png)
 
 ### Links
 - Live Site URL: 
